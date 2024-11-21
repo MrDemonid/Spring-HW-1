@@ -1,0 +1,6 @@
+# Project exclude paths
+/Chat-common/target/
+/Client/.gradle/
+/Client/build/
+/Client/build/classes/java/main/
+/Server/server-app/target/
